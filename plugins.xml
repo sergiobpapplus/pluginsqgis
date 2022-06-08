@@ -1,5 +1,5 @@
 <plugins> 
-  <pyqgis_plugin name="Plan de saneamento" version="0.1">
+  <pyqgis_plugin name="plan_saneamento" version="0.1">
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
       <download_url>https://github.com/sergiobpapplus/pluginpsg/blob/main/plan_saneamento.zip</download_url>
   </pyqgis_plugin>
